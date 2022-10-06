@@ -17,7 +17,7 @@ Tampilan setelah dijalankan :
 ## Cara menambahkan elemen image
 Tampilan code dalam html : <p>
 ![Gambar4](img4.png) <p>
-Tampilan setelah dijalankan :
+Tampilan setelah dijalankan : <p>
 ![Gambar5](img5.png) <p>
 ## Menambahkan elemen input dan break elemen
 Tampilan code dalam html : <p>
